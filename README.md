@@ -34,7 +34,7 @@
 
 *📹 Demo video showcasing the complete app functionality*
 
-> **Note**: Upload your demo video to GitHub and replace this section with the video link
+[> **Note**: Upload your demo video to GitHub and replace this section with the video link](https://github.com/RahulH007/Ai_Driven_Inventory_management_system/blob/main/media/Running%20Devices%20-%20AndroidSDK%202025-07-03%2012-54-53.mp4)
 
 **Features Demonstrated:**
 - ✅ AI-powered inventory tracking
