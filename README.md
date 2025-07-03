@@ -297,9 +297,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **GitHub**: [RahulH007](https://github.com/RahulH007)
-- **Issues**: [GitHub Issues](https://github.com/RahulH007/AI_Driven_Inventroy_managemet_system/issues)
-- **Email**: Contact via GitHub
+- **Email**: support@aiinventory.com
+- **Documentation**: [Wiki](https://github.com/yourusername/ai-inventory-management/wiki)
+- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-inventory-management/issues)
 
 ---
 
@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-*Built with ❤️ for modern businesses*
+*Built with :) for small businesses*
 
 ---
 

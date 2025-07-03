@@ -14,7 +14,7 @@ cred = credentials.Certificate(FIREBASE_CRED_PATH)
 firebase_admin.initialize_app(cred)
 
 # === Initialize Gemini LLM ===
-GEMINI_API_KEY = 'AIzaSyA2o10nF3LhrTl0eOMpcOjoe5NsExlFJ94'  # Make sure to keep this secret
+GEMINI_API_KEY = '''Add your API key here'''  # Make sure to keep this secret
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
