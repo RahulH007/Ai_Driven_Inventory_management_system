@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628882319014",
+    "project_id": "aidriveninventorymanagement",
+    "storage_bucket": "aidriveninventorymanagement.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628882319014:android:684edcb54a9d15914d3667",
+        "android_client_info": {
+          "package_name": "rahul.h.aidsim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzVgXhNgQImxVfZ1Lg_HPgY5NAGn4hUUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
