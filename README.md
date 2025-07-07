@@ -113,17 +113,6 @@ https://github.com/RahulH007/Ai_Driven_Inventory_management_system/blob/main/med
 
 </div>
 
-## 🎯 What You'll See in the Demo
-
-| 🎥 Demo Highlights | ⏱️ Timestamp |
-|-------------------|--------------|
-| **App Launch & Login** | 0:00 - 0:15 |
-| **Dashboard Overview** | 0:15 - 0:30 |
-| **Barcode Scanning** | 0:30 - 0:45 |
-| **AI Chatbot Demo** | 0:45 - 1:10 |
-| **Inventory Management** | 1:10 - 1:30 |
-| **Analytics & Reports** | 1:30 - 1:45 |
-
 ## 🚀 Getting Started
 
 ### Prerequisites
